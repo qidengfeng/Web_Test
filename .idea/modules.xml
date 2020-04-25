@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/AppiumTest/.idea/AppiumTest.iml" filepath="D:/AppiumTest/.idea/AppiumTest.iml" />
+      <module fileurl="file://D:/AutoTest_project/.idea/AutoTest_project.iml" filepath="D:/AutoTest_project/.idea/AutoTest_project.iml" />
+      <module fileurl="file://D:/BAAS_TEST/.idea/BAAS_TEST.iml" filepath="D:/BAAS_TEST/.idea/BAAS_TEST.iml" />
+      <module fileurl="file://D:/BassPeitai/.idea/BassPeitai.iml" filepath="D:/BassPeitai/.idea/BassPeitai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Web_Test.iml" filepath="$PROJECT_DIR$/.idea/Web_Test.iml" />
+      <module fileurl="file://D:/python script/.idea/python script.iml" filepath="D:/python script/.idea/python script.iml" />
+    </modules>
+  </component>
+</project>
